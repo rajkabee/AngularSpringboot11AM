@@ -1,0 +1,7 @@
+.productName{
+  width: 180px;
+  /*white-space: nowrap;*/
+  overflow: hidden;
+  text-overflow: ellipsis;
+  height: 55px;
+}

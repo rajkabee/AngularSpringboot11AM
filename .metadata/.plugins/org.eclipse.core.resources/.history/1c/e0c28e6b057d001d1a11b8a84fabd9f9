@@ -1,0 +1,6 @@
+package com.example.ecommerce.model.entity;
+
+public class ProductCategory {
+	long id;
+	String name;
+}

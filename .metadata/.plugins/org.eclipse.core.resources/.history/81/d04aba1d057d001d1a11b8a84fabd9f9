@@ -1,0 +1,11 @@
+package com.example.ecommerce.model.entity;
+
+public class Product {
+	long id;
+	String sku;
+	String name;
+	String description;
+	@Column(name="unit_price")
+	float unitPrice;
+	
+}
